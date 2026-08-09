@@ -13,7 +13,7 @@ import InterviewReport from "./pages/InterviewReport";
 import Pricing from "./pages/Pricing";
 
 
-export const ServerUrl = "http://localhost:8000";
+export const ServerUrl = "https://ai-interviewagent-2.onrender.com";
 
 function App() {
   console.log("App rendered");
